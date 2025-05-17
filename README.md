@@ -30,23 +30,26 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dreamerby91&show_icons=true&theme=tokyonight" alt="Umesh's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=dreamerby91&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamerby91&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![Umesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dreamerboy92&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dreamerboy92&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamerboy92&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/umesh-kumar-1157b1291/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:umeshkumar54949@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/umesh-kumar-1157b1291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:umeshkumar54949@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/UmeshShah311317" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
 ---
