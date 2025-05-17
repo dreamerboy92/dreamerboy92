@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umesh Kumar</h1>
-<h3 align="center">Data Science Enthusiast | Data Analyst Intern @ NAYKA Bihar Sewa</h3>
+<h3 align="center">Data Science Enthusiast | Data Analyst | Strategy Intern @ NAYKA Bihar Sewa</h3>
 
 ---
 
@@ -59,3 +59,4 @@
 ---
 
 ### 🚀 Let's Build Something Amazing Together!
+
