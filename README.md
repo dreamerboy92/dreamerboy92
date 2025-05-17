@@ -8,7 +8,7 @@
 - 🔭 I’m currently working as a **Strategy Intern** at NAYKA BIHAR SIWA  
 - 🎓 3rd Year B.Tech CSE Student @ Government Engineering College Khagaria  
 - 🌱 Currently learning **Advanced SQL, Power BI, and Real-World Data Projects**  
-- 👨‍💻 Exploring **Machine Learning, Dashboards, and Local LLM-based RAG systems**  
+- 👨‍💻 Exploring **Machine Learning, Dashboards, and Local LLM-based RAG systems,Natural Language Processing(NLP)**  
 - 💬 Ask me about **Python, SQL, Power BI, Data Cleaning, and Visualization**  
 - 📫 Reach me at: **umeshkumar54949@gmail.com**  
 - ⚡ Fun fact: I enjoy finding patterns in data like it’s a treasure hunt! 🧠
