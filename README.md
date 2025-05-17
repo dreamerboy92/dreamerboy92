@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umesh Kumar</h1>
-<h3 align="center">Data Science Enthusiast | Data Analyst | Strategy Intern @ NAYKA BIHAR SEWA</h3>
+<h3 align="center">Data Science Enthusiast | Data Analyst | Data Scientist | Strategy Intern @ NAYKA BIHAR SEWA</h3>
 
 ---
 
