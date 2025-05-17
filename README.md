@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Umesh Kumar</h1>
-<h3 align="center">Data Science Enthusiast | Data Analyst | Strategy Intern @ NAYKA Bihar Sewa</h3>
+<h3 align="center">Data Science Enthusiast | Data Analyst | Strategy Intern @ NAYKA BIHAR SEWA</h3>
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working as a **Data Analyst Intern** at NAYKA Bihar Sewa  
+- 🔭 I’m currently working as a **Strategy Intern** at NAYKA BIHAR SIWA  
 - 🎓 3rd Year B.Tech CSE Student @ Government Engineering College Khagaria  
 - 🌱 Currently learning **Advanced SQL, Power BI, and Real-World Data Projects**  
 - 👨‍💻 Exploring **Machine Learning, Dashboards, and Local LLM-based RAG systems**  
@@ -33,9 +33,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dreamerby91&show_icons=true&theme=radical" alt="umesh's stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamerby91&theme=radical" alt="umesh's streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamerby91&layout=compact&theme=radical" alt="umesh's languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dreamerby91&show_icons=true&theme=tokyonight" alt="Umesh's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=dreamerby91&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamerby91&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
