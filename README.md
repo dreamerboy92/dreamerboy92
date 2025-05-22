@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 I’m currently working as a **Strategy Intern** at NAYKA BIHAR SIWA  
+- 🔭 I’m currently working as a **Strategy Intern** at NAYKA BIHAR SEWA  
 - 🎓 3rd Year B.Tech CSE Student @ Government Engineering College Khagaria  
 - 🌱 Currently learning **Advanced SQL, Power BI, and Real-World Data Projects**  
 - 👨‍💻 Exploring **Machine Learning, Dashboards, and Local LLM-based RAG systems,Natural Language Processing(NLP)**  
